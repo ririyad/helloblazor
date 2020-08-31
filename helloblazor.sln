@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helloblazor.Server", "helloblazor\Server\helloblazor.Server.csproj", "{0B8BAE88-1AA6-4FE8-AD07-D9C111841EE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "helloblazor.Server", "helloblazor\Server\helloblazor.Server.csproj", "{0B8BAE88-1AA6-4FE8-AD07-D9C111841EE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helloblazor.Client", "helloblazor\Client\helloblazor.Client.csproj", "{360C5DD1-5C8F-4634-97E3-12A53CE4A683}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "helloblazor.Client", "helloblazor\Client\helloblazor.Client.csproj", "{360C5DD1-5C8F-4634-97E3-12A53CE4A683}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helloblazor.Shared", "helloblazor\Shared\helloblazor.Shared.csproj", "{D3647480-9C89-4B32-83CF-5D1B7ED3EDEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "helloblazor.Shared", "helloblazor\Shared\helloblazor.Shared.csproj", "{D3647480-9C89-4B32-83CF-5D1B7ED3EDEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
