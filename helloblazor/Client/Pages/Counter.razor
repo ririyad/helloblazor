@@ -4,6 +4,13 @@
 
 <p>The Counter Value is @_counter</p>
 
+<button class="btn btn-primary" @onclick="IncrementCounter">Increment</button>
+
 @code {
     private int _counter = 42;
+
+    private void IncrementCounter()
+    {
+        _counter++;
+    }
 }
